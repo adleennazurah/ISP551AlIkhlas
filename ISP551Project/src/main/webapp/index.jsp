@@ -10,8 +10,8 @@
 <h1>Qurban Registration System</h1>
 <div class="topnav">
 
-  <a href="roomreport.html">Create Account</a>
-  <a href="studentreport.html">Account Report</a>
+  <a href="index.jsp">Create Account</a>
+  <a href="accountreport.jsp">Account Report</a>
   
 </div>
 
