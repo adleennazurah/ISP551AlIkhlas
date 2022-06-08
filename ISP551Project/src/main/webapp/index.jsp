@@ -7,6 +7,38 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome everybody</h1>
+<h1>Qurban Registration System</h1>
+<div class="topnav">
+
+  <a href="roomreport.html">Create Account</a>
+  <a href="studentreport.html">Account Report</a>
+  
+</div>
+
+<br><br>
+
+<form id="booking">
+       <label for="name">Name: </label>
+     <input type="text" name="name" ><br>
+     
+      <br> <label for="email">Email: </label>
+       <input type="email" name="email"><br>
+      <br> <label for="telephonenum">Phone No: </label>
+     <input type="text" id="telephonenum" name="telephonenum" ><br>
+     <br>   <label for="address">Address: </label>
+     <input type="text" id="address" name="address" ><br>
+     
+      <br>   <label for="password">Password: </label>
+     <input type="text" id="password" name="password" ><br>
+     
+ 
+
+ <br><br>
+    <input type="create" value="Create">
+    <input type="reset" value="Reset">
+    
+          
+     </form>
+
 </body>
 </html>
