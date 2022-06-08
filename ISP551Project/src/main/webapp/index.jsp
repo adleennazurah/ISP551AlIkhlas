@@ -34,7 +34,7 @@
  
 
  <br><br>
-    <input type="create" value="Create">
+    <button type="button">Create</button>
     <input type="reset" value="Reset">
     
           
