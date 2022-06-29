@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h1>Assalamualaikum</h1>
   <a href="index.jsp">Create Account</a> <br>
   <a href="accountreport.jsp">Account Report</a> <br>
   <% 
