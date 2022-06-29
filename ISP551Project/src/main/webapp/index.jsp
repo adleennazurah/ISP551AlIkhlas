@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>Assalamualaikum!!! </h1>
+<h2>QURBAN BERSAMA AL-IKHLAS<h2>
 <h1>Qurban Registration System</h1>
 <div class="topnav">
 
