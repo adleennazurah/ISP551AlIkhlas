@@ -31,6 +31,7 @@ tr:first-child {
   <a href="index.jsp">Create Account</a>
   <a href="accountreport.jsp">Account Report</a>
   
+  
 </div>
 
 <br><br>
@@ -56,6 +57,7 @@ tr:first-child {
     <td>
       <button class="update">Update</button>
     <button class="delete">Delete</button>
+    <button class="accountInfo.jsp">View</button>
   </td>
   </tr>
   
