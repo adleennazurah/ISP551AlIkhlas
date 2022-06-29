@@ -15,7 +15,7 @@
   
 <h1>Account Details</h1> <br>
  
-    Your Name: <c:out value="${param.name}"/><br>
+    Name: <c:out value="${param.name}"/><br>
     Email: <c:out value="${param.email}"/><br>
     Phone No: <c:out value="${param.telephonenum}"/><br>
     Address: <c:out value="${param.address}"/><br>
