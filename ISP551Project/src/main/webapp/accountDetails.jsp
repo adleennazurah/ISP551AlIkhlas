@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Qurban Account Details</title>
+<title>Qurban Account</title>
 </head>
 <body>
   <a href="index.jsp">Create Account</a><br>
