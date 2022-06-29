@@ -48,16 +48,16 @@ tr:first-child {
   </tr>
   <tr>
     <td>01</td>
-    <td>Nik</td>
+    <td>Adleen Nazurah</td>
     <td>0123456789</td>
-    <td>nikamani@gmail.com</td>
-     <td>23, Jalan 7/2, Taman Permaisuri, Pendang,57000, Kedah.</td>
+    <td>adleennazurah@gmail.com</td>
+     <td>31,Jalan PUJ 2/28, Taman Puncak Jalil.</td>
    
     
     <td>
       <button class="update">Update</button>
     <button class="delete">Delete</button>
-    <button class="accountInfo.jsp">View</button>
+    <button class="accountDetails.jsp">View</button>
   </td>
   </tr>
   

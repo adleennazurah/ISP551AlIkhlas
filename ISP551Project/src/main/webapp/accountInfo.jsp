@@ -8,14 +8,13 @@
 <title>Insert title here</title>
 </head>
 <body>
-  <a href="index.jsp">Create Account</a>
-  <a href="accountreport.jsp">Account Report</a>
+  <a href="index.jsp">Create Account</a> <br>
+  <a href="accountreport.jsp">Account Report</a> <br>
   <% 
   String name = request.getParameter("name");
   String email = request.getParameter("email");
   String telephonenum =request.getParameter("telephonenum");  
   String address = request.getParameter("address");
- 
   %>
   
   Name : <%= name %><br>

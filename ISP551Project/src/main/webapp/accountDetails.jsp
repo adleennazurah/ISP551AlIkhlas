@@ -10,9 +10,10 @@
 <title>Account Details</title>
 </head>
 <body>
-  <a href="index.jsp">Create Account</a>
-  <a href="accountreport.jsp">Account Report</a>
-<h1>Account Details</h1>
+  <a href="index.jsp">Create Account</a><br>
+  <a href="accountreport.jsp">Account Report</a><br>
+  
+<h1>Account Details</h1> <br>
  
     Name: <c:out value="${param.name}"/><br>
     Email: <c:out value="${param.email}"/><br>
