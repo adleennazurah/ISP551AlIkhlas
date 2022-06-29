@@ -17,7 +17,7 @@
 
 <br><br>
 
-<form id="createaccount">
+<form action="accountInfo.jsp" method="post">
        <label for="name">Name: </label>
      <input type="text" name="name" ><br>
      
@@ -34,7 +34,7 @@
  
 
  <br><br>
-    <button type="button">Create</button>
+          <input type="submit" value="Submit" >
     <input type="reset" value="Reset">
     
           
