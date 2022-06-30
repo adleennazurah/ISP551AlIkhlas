@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Assalamualaikum Dunia!!! </h1>
+<h1>Assalamualaikum semua selamat sejahtera! </h1>
 <h2>QURBAN BERSAMA AL-IKHLAS<h2>
 <h1>Qurban Registration System</h1>
 <div class="topnav">
